@@ -320,6 +320,13 @@ footer p{
   color: rgba(0, 0, 0, 0.7);
 }
 
+.title-heading p {
+  text-transform: uppercase;
+}
+.adventure-grid-item p {
+   text-transform: uppercase
+}
+
 /* Media Queries for making the webpage responsive */
 @media screen and (min-width: 350px){
   .main-message{
